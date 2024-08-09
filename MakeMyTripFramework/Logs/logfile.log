@@ -1,0 +1,9 @@
+08/06/2024 01:13:27 PM - INFO - This is our first log
+08/06/2024 01:23:41 PM - DEBUG - Debug log
+08/06/2024 01:23:41 PM - INFO - Information log 
+08/06/2024 01:23:41 PM - WARNING - Warning log
+08/06/2024 01:23:41 PM - ERROR - Error log
+08/06/2024 01:23:41 PM - CRITICAL - Critical log
+08/06/2024 01:23:41 PM - INFO - Hello
+08/06/2024 01:23:41 PM - ERROR - this is error
+08/06/2024 01:23:41 PM - CRITICAL - this is critical

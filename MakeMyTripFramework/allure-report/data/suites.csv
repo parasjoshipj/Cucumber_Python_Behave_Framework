@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","15682","Verify user can book a One Way ticket for multiple future date -- @1.2 ","","Fri Aug 09 13:40:56 IST 2024","passed","Fri Aug 09 13:41:12 IST 2024","","","",""
+"","7007","Verify user is able to login into the application","","Fri Aug 09 13:40:02 IST 2024","passed","Fri Aug 09 13:40:09 IST 2024","","","",""
+"","23914","Verify user can book a One Way ticket for multiple future date -- @1.1 ","","Fri Aug 09 13:40:32 IST 2024","passed","Fri Aug 09 13:40:56 IST 2024","","","",""
+"","22719","Verify user can book a One Way ticket for future date","","Fri Aug 09 13:40:09 IST 2024","passed","Fri Aug 09 13:40:32 IST 2024","","","",""
